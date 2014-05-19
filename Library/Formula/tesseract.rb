@@ -2,8 +2,8 @@ require 'formula'
 
 class Tesseract < Formula
   homepage 'http://code.google.com/p/tesseract-ocr/'
-  url 'https://tesseract-ocr.googlecode.com/files/tesseract-ocr-3.02.02.tar.gz'
-  sha1 'a950acf7b75cf851de2de787e9abb62c58ca1827'
+  url 'https://bitbucket.org/3togo/python-tesseract/downloads/tesseract-3.03-rc1.tar.gz'
+  sha1 '5bd12482a69f0a1fdf3c9e0d652de08db763ee93'
 
   head do
     url 'http://tesseract-ocr.googlecode.com/svn/trunk'
